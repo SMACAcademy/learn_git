@@ -26,3 +26,4 @@ gpg --delete-secret-keys 0AF19XXXX8601AAE
 gpg --edit-key 0AF19XXXX8601AAE 
 
 ```
+with sign
