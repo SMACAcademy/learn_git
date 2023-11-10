@@ -7,6 +7,8 @@ gpg --list-secret-keys --keyid-format=long
 gpg --full-generate-key
 gpg --list-secret-keys --keyid-format=long
 
+git config --global user.email xxxxxx@gmail.com
+git config --global user.name xxxyyyzzz
 
 git config --global user.signingkey 0AF19XXXX8601AAE
 git config --global commit.pgpsign true
