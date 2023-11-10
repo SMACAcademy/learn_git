@@ -18,3 +18,5 @@ gpg --export --armor 0AF1928AA8601AAE > ./gpg-key.pub
 gpg --export-secret-keys --armor 2F2E4E774B8FDEDFCEF149890AF1928AA8601AAE > ./gpg-key.asc
 
 ```
+
+Signing verification
